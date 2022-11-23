@@ -490,5 +490,4 @@ Content-Type: application/json
 	"Body": "This is another sample document."
 }
 ```
-
 As you'll see, it works exactly the same as with the programmatic workflow created earlier.
